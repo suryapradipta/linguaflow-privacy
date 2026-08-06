@@ -1,3 +1,8 @@
+---
+layout: default
+title: LinguaFlow Privacy Policy
+---
+
 # Privacy Policy for LinguaFlow
 
 **Last updated: 2 August 2026**
