@@ -4,7 +4,7 @@ title: LinguaFlow Privacy Policy
 
 # Privacy Policy for LinguaFlow
 
-**Last updated: 2 August 2026**
+**Last updated: 21 October 2026**
 
 LinguaFlow ("the app") is a Mandarin Chinese learning app that turns videos you
 already own into interactive lessons. This policy explains exactly what the app
@@ -68,11 +68,9 @@ acting as our data processor.
 
 ### 2. Text you explicitly send to AI features
 
-When you tap **Explain** on a subtitle line, or request **pronunciation
-feedback**, the app sends to our server:
+When you tap **Explain** on a subtitle line, the app sends to our server:
 
-- The single sentence being explained (and, for pronunciation, what the speech
-  recogniser heard you say)
+- The single sentence being explained
 - Your approximate learner level and chosen language
 
 That text is forwarded to **OpenAI** to generate the explanation, and the
@@ -176,7 +174,7 @@ Standard Contractual Clauses.
 | Processor | Purpose | Policy |
 |---|---|---|
 | Supabase Inc. | Authentication, account storage, backend functions | https://supabase.com/privacy |
-| OpenAI, L.L.C. | Generating AI explanations and pronunciation feedback | https://openai.com/policies/privacy-policy |
+| OpenAI, L.L.C. | Generating AI explanations | https://openai.com/policies/privacy-policy |
 | Apple Inc. | App distribution, subscriptions, optional server speech recognition | https://www.apple.com/legal/privacy/ |
 
 ## Security
