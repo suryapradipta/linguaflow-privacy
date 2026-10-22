@@ -4,7 +4,7 @@ title: LinguaFlow Privacy Policy
 
 # Privacy Policy for LinguaFlow
 
-**Last updated: 21 October 2026**
+**Last updated: 22 October 2026**
 
 LinguaFlow ("the app") is a Mandarin Chinese learning app that turns videos you
 already own into interactive lessons. This policy explains exactly what the app
@@ -13,7 +13,8 @@ collects, what it does not, and what control you have.
 The short version: **your videos, audio and transcripts never leave your
 device.** The only things that reach a server are your account email (if you
 choose to sign in), a single sentence at a time when you explicitly ask for an
-AI explanation, and your subscription status.
+AI explanation, your subscription status, and a report on a For You clip if you
+send one.
 
 ---
 
@@ -94,6 +95,13 @@ your devices.
 If you use **Send Feedback**, your email app opens with a prefilled message
 containing your app version, iOS version and device model. You can edit or
 remove any of it before sending. We receive whatever you choose to send.
+
+### 5. Reporting a For You clip
+
+If you report a problem with a For You clip, we receive the reason you choose
+and, if you're signed in, your account. We use it only to fix or remove the
+clip. For You plays each clip in **YouTube's own player**, so YouTube's privacy
+policy covers what that player does.
 
 ---
 
@@ -176,6 +184,7 @@ Standard Contractual Clauses.
 | Supabase Inc. | Authentication, account storage, backend functions | https://supabase.com/privacy |
 | OpenAI, L.L.C. | Generating AI explanations | https://openai.com/policies/privacy-policy |
 | Apple Inc. | App distribution, subscriptions, optional server speech recognition | https://www.apple.com/legal/privacy/ |
+| Google LLC (YouTube) | Playing For You clips in YouTube's own player | https://policies.google.com/privacy |
 
 ## Security
 
